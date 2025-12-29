@@ -1,0 +1,23 @@
+{
+    "name": "@frontal/sdk",
+    "displayName": "Frontal SDK",
+    "description": "The primary programmatic interface to the Frontal platform.",
+    "author": "Frontal Labs",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/frontal-labs/sdk.git"
+    },
+    "bugs": {
+        "url": "https://github.com/frontal-labs/sdk/issues"
+    },
+    "homepage": "https://frontal.ai/docs/sdk",
+    "keywords": [
+        "frontal",
+        "sdk",
+        "api",
+        "typescript",
+        "ai",
+        "platform"
+    ]
+}
