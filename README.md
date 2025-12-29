@@ -1,3 +1,9 @@
+<picture>
+  <source srcset="./assets/banner-dark.png" media="(prefers-color-scheme: dark)">
+  <source srcset="./assets/banner.png" media="(prefers-color-scheme: light)">
+  <img src="./assets/banner-dark.png" alt="Frontal Banner">
+</picture>
+
 # Frontal SDK
 
 The primary programmatic interface to the Frontal platform. Clean, typed, composable, and extensible.
